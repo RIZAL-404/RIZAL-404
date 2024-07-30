@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rizal/Richardo</h1>
 <h3 align="center">Learn python with me</h3>
 
+![IMG_20240729_193257_188](https://github.com/user-attachments/assets/770c17ab-a00c-4a3d-8dd3-02f8a18ddc6c)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizal-404&label=Profile%20views&color=0e75b6&style=flat" alt="rizal-404" /> </p>
 
 - 🌱 I’m currently learning **HTML,PYTHON,JAVA & CSS**
@@ -18,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizal-404&show_icons=true&locale=en" alt="rizal-404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizal-404&" alt="rizal-404" /></p>
+
