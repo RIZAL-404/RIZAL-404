@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizal-404&label=Profile%20views&color=0e75b6&style=flat" alt="rizal-404" /> </p>
 
-- 🌱 I’m currently learning **HTML,PYTHON,JAVA & CSS**
 
 ![IMG_20240729_193257_188](https://github.com/user-attachments/assets/b9dd89a1-5224-4cac-9eaf-41f2566861ea)
 
